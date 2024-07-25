@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 levelItemDiv.className = 'level-item';
 
                 const levelTitle = document.createElement('h2');
-                levelTitle.textContent = `Level ${index + 1}`;
+                levelTitle.textContent = `Top ${index + 1}`;
                 levelItemDiv.appendChild(levelTitle);
 
                 const levelDescription = document.createElement('p');
