@@ -1,3 +1,4 @@
-1: The Nightmare
-2: The Lightning Road
-3: Demon Mixed
+1: Shiver
+2: The Nightmare
+3: The Lightning Road
+4: Demon Mixed
